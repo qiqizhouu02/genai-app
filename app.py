@@ -2,6 +2,7 @@ import streamlit as st
 import time
 from utils import get_persona_prompt, get_persona_response
 
+
 st.set_page_config(page_title="Persona", layout="wide")
 
 # Initialize session state variables
@@ -214,4 +215,3 @@ elif page == "Persona Debate":
             
             # Rerun to update the UI
             st.rerun()
-            
