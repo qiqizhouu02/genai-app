@@ -1,4 +1,8 @@
 streamlit
+openai
 pandas
-numpy
-matplotlib
+python-docx
+PyPDF2
+python-dotenv
+beautifulsoup4
+requests
